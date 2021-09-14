@@ -1,0 +1,74 @@
+[
+    {
+        "key": "datr",
+        "value": "0Q5AYYm6x-eUo4AW0ZLZt4JC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.781Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    },
+    {
+        "key": "sb",
+        "value": "0Q5AYXhyx333aII1_XGv2uxp",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.792Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.792Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    },
+    {
+        "key": "fr",
+        "value": "12NN37kGdqsa6vwbD.AWXX4QmExyLk3sUope988HvkGbo.BhQA7R.JZ.AAA.0.0.BhQA8u.AWWo891Jqlk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.792Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100042276525402",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.792Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    },
+    {
+        "key": "xs",
+        "value": "41%3A0Jw-VogvGHrTPw%3A2%3A1631588143%3A-1%3A6256",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.792Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    },
+    {
+        "key": "x-referer",
+        "value": "eyJyIjoiLzEwMDAwMDY4MzU0NjUwNC9wb3N0cy9wY2IuNDQxMTI1ODMzODk1MTA4Lz9waG90b19pZD00Njg5NjI3OTQ3NzM2NjEwJm1kcz0lMkZwaG90b3MlMkZ2aWV3ZXIlMkYlM0ZwaG90b3NldF90b2tlbiUzRHBjYi40NDExMjU4MzM4OTUxMDglMjZwaG90byUzRDQ2ODk2Mjc5NDc3MzY2MTAlMjZwcm9maWxlaWQlM0QxMDAwNDIyNzY1MjU0MDIlMjZzb3VyY2UlM0Q0OCUyNnJlZmlkJTNEOCUyNl9mdF8lM0RxaWQuLTc3ODE5NTE3MzY2MDQ4NjY0NTQlMjUzQW1mX3N0b3J5X2tleS4tNTI3OTY0MzA1MzEyODU2MDkxNiUyNTNBdG9wX2xldmVsX3Bvc3RfaWQuNDQxMTI1ODMzODk1MTA4JTI1M0Fjb250ZW50X293bmVyX2lkX25ldy4xMDAwMDA2ODM1NDY1MDQlMjUzQXBhZ2VfaWQuMjczNTg0NDgzOTgyNTc4JTI1M0FzcmMuMjIlMjUzQXBob3RvX2F0dGFjaG1lbnRzX2xpc3QuWzQ2ODk2Mjc5NDc3MzY2MTAlMjUyQzQ2ODk2MjgwNjc3MzY1OTglMjUyQzQ2ODk2MjgxOTc3MzY1ODVdJTI1M0FwaG90b19pZC40Njg5NjI3OTQ3NzM2NjEwJTI1M0FzdG9yeV9sb2NhdGlvbi41JTI1M0FzdG9yeV9hdHRhY2htZW50X3N0eWxlLmFsYnVtJTI1M0F2aWV3X3RpbWUuMTYzMTU4ODE2MiUyNTNBZmlsdGVyLmhfbm9yJTI1M0FvdHQuQVg5ekdFVll2UmlwN1lxOCUyNTNBdGRzX2ZsZ3MuMyUyNl9fdG5fXyUzREVILVIlMjZjYWNoZWRfZGF0YSUzRGZhbHNlJTI2ZnRpZCUzRCZtZHA9MSZtZGY9MSIsImgiOiIvMTAwMDAwNjgzNTQ2NTA0L3Bvc3RzL3BjYi40NDExMjU4MzM4OTUxMDgvP3Bob3RvX2lkPTQ2ODk2Mjc5NDc3MzY2MTAmbWRzPSUyRnBob3RvcyUyRnZpZXdlciUyRiUzRnBob3Rvc2V0X3Rva2VuJTNEcGNiLjQ0MTEyNTgzMzg5NTEwOCUyNnBob3RvJTNENDY4OTYyNzk0NzczNjYxMCUyNnByb2ZpbGVpZCUzRDEwMDA0MjI3NjUyNTQwMiUyNnNvdXJjZSUzRDQ4JTI2cmVmaWQlM0Q4JTI2X2Z0XyUzRHFpZC4tNzc4MTk1MTczNjYwNDg2NjQ1NCUyNTNBbWZfc3Rvcnlfa2V5Li01Mjc5NjQzMDUzMTI4NTYwOTE2JTI1M0F0b3BfbGV2ZWxfcG9zdF9pZC40NDExMjU4MzM4OTUxMDglMjUzQWNvbnRlbnRfb3duZXJfaWRfbmV3LjEwMDAwMDY4MzU0NjUwNCUyNTNBcGFnZV9pZC4yNzM1ODQ0ODM5ODI1NzglMjUzQXNyYy4yMiUyNTNBcGhvdG9fYXR0YWNobWVudHNfbGlzdC5bNDY4OTYyNzk0NzczNjYxMCUyNTJDNDY4OTYyODA2NzczNjU5OCUyNTJDNDY4OTYyODE5NzczNjU4NV0lMjUzQXBob3RvX2lkLjQ2ODk2Mjc5NDc3MzY2MTAlMjUzQXN0b3J5X2xvY2F0aW9uLjUlMjUzQXN0b3J5X2F0dGFjaG1lbnRfc3R5bGUuYWxidW0lMjUzQXZpZXdfdGltZS4xNjMxNTg4MTYyJTI1M0FmaWx0ZXIuaF9ub3IlMjUzQW90dC5BWDl6R0VWWXZSaXA3WXE4JTI1M0F0ZHNfZmxncy4zJTI2X190bl9fJTNERUgtUiUyNmNhY2hlZF9kYXRhJTNEZmFsc2UlMjZmdGlkJTNEJm1kcD0xJm1kZj0xIiwicyI6Im0ifQ%3D%3D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.792Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    },
+    {
+        "key": "wd",
+        "value": "480x1067",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-14T02:59:04.792Z",
+        "lastAccessed": "2021-09-14T02:59:04.792Z"
+    }
+]
